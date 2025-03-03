@@ -2,6 +2,8 @@
 
 A full-stack web application for converting currencies and tracking transfer history. The application allows users to convert between different currencies (USD, LKR, AUD, INR) in real-time using current exchange rates, and keeps a record of all conversions.
 
+## Live Demo - https://drive.google.com/file/d/1GFf7FIJmniV1KL9C6ldqciVF2Too_eEw/view?usp=sharing
+
 ## Technologies Used
 
 ### Frontend
