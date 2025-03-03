@@ -43,7 +43,6 @@ router.get('/transfers', async (req, res) => {
 });
 
 // Create a new transfer
-// Create a new transfer
 router.post('/transfers', async (req, res) => {
   try {
     const { fromCountry, toCountry, amount } = req.body;
